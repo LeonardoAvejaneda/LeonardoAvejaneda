@@ -1,7 +1,6 @@
 ### Olá 👋
 
 - Meu nome é Leonardo
-- Estou aprendendo JavaScript
 - Aqui é onde eu organizo meus projetos pessoais
 
 ### Meu Email 📫
